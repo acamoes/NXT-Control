@@ -19,7 +19,7 @@ In order to run this project it is necessary to:
 * Set ENV (NXJ_HOME, etc.)
 * Import project into Eclipse
 * Set NXJ_HOME in "Java > Build Path > Classpath Variable" (should be the same value as NXJ_HOME)
-* Send rec.java to NXT
+* Send rec.java to NXT from Eclipse
 * Execute send.java from Eclipse
 
 
