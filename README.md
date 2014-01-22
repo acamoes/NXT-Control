@@ -4,10 +4,12 @@ NXT-Control
 Control LEGO NXT from PC
 
 Getting Started
+===========
 
 http://lejos.sourceforge.net/nxt/nxj/tutorial/
 
 Use Eclipse
+===========
 
 Set ENV (NXJ_HOME, etc.)
 Import project into Eclipse
