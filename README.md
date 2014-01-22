@@ -13,6 +13,8 @@ http://homebrewcode.blogspot.pt/2011/06/greetings-for-long-time-i-wanted-to-use.
 Modus Operandi
 ===========
 
+HOWTO INSTALL: http://www.lejos.org/nxt/nxj/tutorial/Preliminaries/UsingEclipse.htm
+
 In order to run this project it is necessary to:
 * Install LEJOS (http://www.lejos.org/)
 * Have Eclipse installed
