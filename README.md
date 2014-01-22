@@ -10,7 +10,7 @@ http://lejos.sourceforge.net/nxt/nxj/tutorial/
 
 http://homebrewcode.blogspot.pt/2011/06/greetings-for-long-time-i-wanted-to-use.html
 
-MODUS OPERANDI
+Modus Operandi
 ===========
 
 In order to run this project it is necessary to:
